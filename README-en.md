@@ -29,13 +29,33 @@
 
 ## Table of Contents
 
-- ### 📜 | [Instructions](#instructions)
+- ### 🛠️ | [Installation](#installation)
+
+- #### 📥 | [Download](#download)
+
+- #### 📜 | [Instructions](#instructions)
 
 - ### ❄️ | [Others](#others)
 
 ---
 
-### Instructions
+### Installation
+
+#### 1. Download
+
+```
+git clone https://github.com/crnobog69/extra.git
+```
+
+/
+
+```
+   git clone https://codeberg.org/crnobog/dotfiles.git && git clone https://github.com/crnobog69/extra.git
+```
+
+For `GNU Stow` Dotfiles, visit [crnobog69/dotfiles](https://github.com/crnobog69/dotfiles).
+
+#### 2. Instructions
 
 With the click on the name of the program, you will be taken to the instructions for that program.
 
