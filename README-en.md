@@ -1,4 +1,8 @@
-# ❄️ Dotfiles Extra
+<div align="center">
+
+# ❄️ | Dotfiles Extra
+
+</div>
 
 <div align="center">
 
@@ -33,18 +37,18 @@
 
 ### Instructions
 
-- 🖥️ | [`kde`](kde/README.md) <= instructions
-- 🌐 | [`tabliss`](tabliss/README.md) <= instructions
-- 💬 | [`vencord`](vencord/README.md) <= instructions
-- 🎵 | [`spicetify`](spicetify/README.md) <= instructions
-- 🐇 | [`mangadex`](mangadex/README.md) <= instructions
-- 🐈 | [`miruro`](miruro/README.md) <= instructions
-- 🐒 | [`violentmonkey`](violentmonkey/README.md) <= instructions
-- 🦊 | [`firefox`](firefox/README.md) <= instructions
-- ⚛️ | [`cobaltium`](https://github.com/crnobog69/cobaltium) <= instructions
-- 🦁 | [`brave`](brave/README.md) <= instructions
-- 🗺️ | [`brave-maps`](brave-maps) <= instructions (same as [`cobaltium`](https://github.com/crnobog69/cobaltium))
-- 📝 | [`notesnook`](notesnook/README.md) <= instructions
+- 🖥️ | [`kde`](kde/README.md) - instructions
+- 🌐 | [`tabliss`](tabliss/README.md) - instructions
+- 💬 | [`vencord`](vencord/README.md) - instructions
+- 🎵 | [`spicetify`](spicetify/README.md) - instructions
+- 🐇 | [`mangadex`](mangadex/README.md) - instructions
+- 🐈 | [`miruro`](miruro/README.md) - instructions
+- 🐒 | [`violentmonkey`](violentmonkey/README.md) - instructions
+- 🦊 | [`firefox`](firefox/README.md) - instructions
+- ⚛️ | [`cobaltium`](https://github.com/crnobog69/cobaltium) - instructions
+- 🦁 | [`brave`](brave/README.md) - instructions
+- 🗺️ | [`brave-maps`](brave-maps) - instructions (same as [`cobaltium`](https://github.com/crnobog69/cobaltium))
+- 📝 | [`notesnook`](notesnook/README.md) - instructions
 
 ---
 

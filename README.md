@@ -35,18 +35,18 @@
 
 ### Упутства
 
-- 🖥️ | [`kde`](kde/README.md) <= упутство
-- 🌐 | [`tabliss`](tabliss/README.md) <= упутство
-- 💬 | [`vencord`](vencord/README.md) <= упутство
-- 🎵 | [`spicetify`](spicetify/README.md) <= упутство
-- 🐇 | [`mangadex`](mangadex/README.md) <= упутство
-- 🐈 | [`miruro`](miruro/README.md) <= упутство
-- 🐒 | [`violentmonkey`](violentmonkey/README.md) <= упутство
-- 🦊 | [`firefox`](firefox/README.md) <= упутство
-- ⚛️ | [`cobaltium`](https://github.com/crnobog69/cobaltium) <= упутство
-- 🦁 | [`brave`](brave/README.md) <= упутство
-- 🗺️ | [`brave-maps`](brave-maps) <= упутство (исто као [`cobaltium`](https://github.com/crnobog69/cobaltium))
-- 📝 | [`notesnook`](notesnook/README.md) <= упутство
+- 🖥️ | [`kde`](kde/README.md) - упутство
+- 🌐 | [`tabliss`](tabliss/README.md) - упутство
+- 💬 | [`vencord`](vencord/README.md) - упутство
+- 🎵 | [`spicetify`](spicetify/README.md) - упутство
+- 🐇 | [`mangadex`](mangadex/README.md) - упутство
+- 🐈 | [`miruro`](miruro/README.md) - упутство
+- 🐒 | [`violentmonkey`](violentmonkey/README.md) - упутство
+- 🦊 | [`firefox`](firefox/README.md) - упутство
+- ⚛️ | [`cobaltium`](https://github.com/crnobog69/cobaltium) - упутство
+- 🦁 | [`brave`](brave/README.md) - упутство
+- 🗺️ | [`brave-maps`](brave-maps) - упутство (исто као [`cobaltium`](https://github.com/crnobog69/cobaltium))
+- 📝 | [`notesnook`](notesnook/README.md) - упутство
 
 ---
 
