@@ -1,10 +1,14 @@
-### ⚙️ |  **Automail Setup Installation Guide**
+### ⚙️ | **Automail Setup Installation Guide**
 
-<br>
+<div align="center">
 
-  [Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+---
 
-<br>
+[Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+
+---
+
+</div>
 
 1. 📥 | Install Automail by following [the instructions](../README.md).
 

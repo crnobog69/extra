@@ -1,10 +1,14 @@
 # ⚙️ Configurations | KDE Plasma 6.1
 
-<br>
+<div align="center">
 
-  [Serbian (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+---
 
-<br>
+[Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+
+---
+
+</div>
 
 - 🗼 | [`konsole`](konsole/README.md) <= guide | **Tokyo Night** theme
 - ⌨️ | [`shortcut-scheme`](shortcut-scheme/README.md) <= guide | my keyboard shortcut configuration

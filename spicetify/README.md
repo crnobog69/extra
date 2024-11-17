@@ -1,10 +1,14 @@
 # 🎵 Spicetify Config
 
----
-
-  [Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+<div align="center">
 
 ---
+
+[Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+
+---
+
+</div>
 
 # Табела садржаја:
 
@@ -18,7 +22,7 @@
 Ово садржи целу моју конфигурацију за **Spicetify**
 
 ### 🛠️ Како користити?
- 
+
 1. Отићи у `Marketplace`
 2. Кликнути на иконицу чупчаника
 3. Спустити се до дна
@@ -40,10 +44,9 @@
 
 📌 Тренутно користим [Text тему](https://github.com/spicetify/spicetify-themes/tree/master/text) са Catppuccin Mocha варијантом. (нема опциу за увоз/извоз config датотека)
 
-🪐 Можете користити [*моју скрипту*](https://github.com/crnobog69/spicetify-bat-installer-autoupdater) за инсталирање `Spicetify` за `Windows`.
+🪐 Можете користити [_моју скрипту_](https://github.com/crnobog69/spicetify-bat-installer-autoupdater) за инсталирање `Spicetify` за `Windows`.
 
 ---
-
 
 ```
 sudo pacman -S spcetify-cli-marketplace

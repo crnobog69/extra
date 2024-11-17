@@ -1,10 +1,14 @@
 # ⚙️ Конфигурације | KDE Plasma 6.1
 
-<br>
+<div align="center">
 
-  [Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+---
 
-<br>
+[Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+
+---
+
+</div>
 
 - 🗼 | [`konsole`](konsole/README.md) <= упутство | **Tokyo Night** тема
 - ⌨️ | [`shortcut-scheme`](shortcut-scheme/README.md) <= упутство | моја конфигурација пречица за тастатуру

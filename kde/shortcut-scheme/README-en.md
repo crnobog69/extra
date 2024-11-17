@@ -1,10 +1,14 @@
 # 🎛️⌨️ | Keyboard Shortcut Scheme | KDE Plasma 6.1
 
-<br>
+<div align="center">
 
-  [Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+---
 
-<br>
+[Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+
+---
+
+</div>
 
 1. ⚙️ | Open **System Settings**
 

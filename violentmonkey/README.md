@@ -1,21 +1,21 @@
 # 🐒 | Насилнимајмун
 
----
-
-<br>
-
-  [Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
-
-<br>
+<div align="center">
 
 ---
+
+[Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+
+---
+
+</div>
 
 <br>
 
 Постоје два начина за примену конфигурације:
+
 - Све одједном - [Конфиг датотека](#конфиг-датотека)
 - Све посебно - [Тема](#тема), [Корисничке скрипте](#корисничке-скрипте)
-
 
 <br>
 
@@ -33,8 +33,7 @@
 
 # Конфиг датотека
 
-> [!NOTE]
-> [Automail](automail/README.md) конфигурација се мора посебно увести
+> [!NOTE] > [Automail](automail/README.md) конфигурација се мора посебно увести
 
 1. Отворите **Violentmonkey** екстензију у прегледачу.
 
@@ -44,7 +43,7 @@
 
 4. Затим притисните Увези из **ZIP-а…**
 
-4. Изаберите **`violentmonkey-config.zip`**
+5. Изаберите **`violentmonkey-config.zip`**
 
 ---
 
@@ -136,7 +135,7 @@
 - **Firefox**: [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/), [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/), или [Violentmonkey](https://addons.mozilla.org/firefox/addon/violentmonkey/)
 - **Maxthon**: [Violentmonkey](http://extension.maxthon.com/detail/index.php?view_id=1680)
 - **Dolphin**: [Tampermonkey](https://play.google.com/store/apps/details?id=net.tampermonkey.dolphin)
-- **UC**: [Tampermonkey](https://www.tampermonkey.net/?browser=ucweb&amp;ext=dhdg)
+- **UC**: [Tampermonkey](https://www.tampermonkey.net/?browser=ucweb&ext=dhdg)
 - **Kiwi**: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) или [Violentmonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)
 - **XBrowser**: [XBrowser](https://www.xbext.com)
 

@@ -1,10 +1,14 @@
-### ⚙️ |  **Упутство за инсталацију подешавања Automail-а**
+### ⚙️ | **Упутство за инсталацију подешавања Automail-а**
 
-<br>
+<div align="center">
 
-  [Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+---
 
-<br>
+[Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+
+---
+
+</div>
 
 1. 📥 | Инсталирајте Automail пратећи [упутство](../README.md).
 

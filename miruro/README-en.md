@@ -1,10 +1,14 @@
 # 🐈 | Catppuccin Mocha - [Miruro](https://www.miruro.com/)
 
----
-
-  [Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+<div align="center">
 
 ---
+
+[Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+
+---
+
+</div>
 
 ## 🛠 | Installation
 

@@ -1,18 +1,19 @@
 # 🐒 | Violentmonkey
 
----
-
-<br>
-
-  [Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
-
-<br>
+<div align="center">
 
 ---
+
+[Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+
+---
+
+</div>
 
 <br>
 
 There are two ways to apply the configuration:
+
 - All at once - [Config File](#config-file)
 - Individually - [Theme](#theme), [User Scripts](#userscripts)
 
@@ -34,8 +35,7 @@ There are two ways to apply the configuration:
 
 # Config File
 
-> [!NOTE]
-> [Automail](automail/README.md) configuration must be imported separately.
+> [!NOTE] > [Automail](automail/README.md) configuration must be imported separately.
 
 1. Open the **Violentmonkey** extension in your browser.
 
@@ -140,7 +140,7 @@ Userscripts for ani/manga and other 🖥️🔧
 - **Firefox**: [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/), [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/), or [Violentmonkey](https://addons.mozilla.org/firefox/addon/violentmonkey/)
 - **Maxthon**: [Violentmonkey](http://extension.maxthon.com/detail/index.php?view_id=1680)
 - **Dolphin**: [Tampermonkey](https://play.google.com/store/apps/details?id=net.tampermonkey.dolphin)
-- **UC**: [Tampermonkey](https://www.tampermonkey.net/?browser=ucweb&amp;ext=dhdg)
+- **UC**: [Tampermonkey](https://www.tampermonkey.net/?browser=ucweb&ext=dhdg)
 - **Kiwi**: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Violentmonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)
 - **XBrowser**: [XBrowser](https://www.xbext.com)
 

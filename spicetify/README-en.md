@@ -1,10 +1,14 @@
 # 🎵 Spicetify Config
 
----
-
-  [Serbian (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+<div align="center">
 
 ---
+
+[Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+
+---
+
+</div>
 
 # Table of Contents:
 
@@ -18,7 +22,7 @@
 This contains my entire configuration for **Spicetify**
 
 ### 🛠️ How to Use?
- 
+
 1. Go to `Marketplace`
 2. Click on the plugin icon
 3. Scroll down to the bottom
@@ -40,10 +44,9 @@ This contains my entire configuration for **Spicetify**
 
 📌 I am currently using the [Text theme](https://github.com/spicetify/spicetify-themes/tree/master/text) with the Catppuccin Mocha variant. (there is no option to import/export config files)
 
-🪐 You can use [*my script*](https://github.com/crnobog69/spicetify-bat-installer-autoupdater) to install `Spicetify` for `Windows`.
+🪐 You can use [_my script_](https://github.com/crnobog69/spicetify-bat-installer-autoupdater) to install `Spicetify` for `Windows`.
 
 ---
-
 
 ```
 sudo pacman -S spcetify-cli-marketplace
