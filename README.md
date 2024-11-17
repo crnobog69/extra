@@ -109,7 +109,7 @@ git clone https://github.com/crnobog69/extra.git
 
 <br>
 
-#### Репозиторијум (dotwin | Windows):
+#### Репозиторијуми (dotwin | Windows):
 
 🐙 | [`Github | Репозиторијум`](https://github.com/crnobog69/dotwin)
 
