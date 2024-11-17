@@ -69,6 +69,7 @@ With the click on the name of the program, you will be taken to the instructions
 - 🦊 | [`firefox`](firefox/README.md)
 - ⚛️ | [`cobaltium`](https://github.com/crnobog69/cobaltium)
 - 🦁 | [`brave`](brave/README.md)
+- 📞 | [`whatsapp`](whatsapp/README.md)
 - 🗺️ | [`brave-maps`](brave-maps) (same as [`cobaltium`](https://github.com/crnobog69/cobaltium))
 - 📝 | [`notesnook`](notesnook/README.md)
 
