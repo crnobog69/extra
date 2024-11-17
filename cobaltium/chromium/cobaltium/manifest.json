@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "Cobaltium",
+    "version": "1.1",
+    "description": "Једноставан `Cobalt.tools` додатак. ",
+    "background": {
+      "service_worker": "background.js"
+    },
+    "permissions": ["tabs"],
+    "action": {
+      "default_icon": {
+        "16": "assets/icon16.png",
+        "48": "assets/icon48.png",
+        "128": "assets/icon128.png"
+      }
+    },
+    "icons": {
+        "16": "assets/icon16.png",
+        "48": "assets/icon48.png",
+        "128": "assets/icon128.png"
+    },
+    "homepage_url": "https://github.com/crnobog69/cobaltara",
+    "author": "Црнобог | Crnobog"
+  }
+  

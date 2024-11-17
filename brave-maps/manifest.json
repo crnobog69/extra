@@ -1,0 +1,25 @@
+{
+    "author": "crnobog",
+    "name": "Brave Мапе",
+    "description": "Chromium Extension to add Maps links to the Brave Search page",
+    "version": "3.0.0",
+    "manifest_version": 3,
+    "icons": {
+        "16": "icon16.png",
+        "32": "icon32.png",
+        "64": "icon64.png",
+        "128": "icon128.png"
+    },
+    "action": {
+        "default_icon": "icon-pin.png",
+        "default_popup": "index.html"
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://*.search.brave.com/*"],
+            "js": ["content.js"],
+            "css": ["style.css"]
+        }
+    ],
+    "permissions": ["storage"]
+}

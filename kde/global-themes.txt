@@ -1,0 +1,19 @@
+colors - Catppuccin Mocha Green
+plasma style - AppleDark-All
+cursor - catppuccin-mocha-green
+
+уводни екран: Lain
+ssmd-уводни екран: dracula-plasma6
+
+---
+
+plasmoids:
+
+/home/krematorijum/.local/share/plasma/plasmoids/
+
+AndromedaLauncher
+com.dv.uswitcher
+com.github.exequtic.apdatifier
+org.kde.panel.transparency.toggle
+plasmusic-toolbar - /home/krematorijum/.local/share/plasma/plasmoids/plasmusic-toolbar/contents/config/
+zayron.simple.separator
