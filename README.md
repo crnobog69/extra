@@ -48,7 +48,7 @@
 
 <br>
 
-Репозиторијуми (Extra):
+#### Репозиторијуми (Extra):
 
 🐙 | [`Github | Репозиторијум`](https://github.com/crnobog69/extra)
 
@@ -58,7 +58,7 @@
 
 <br>
 
-Репозиторијуми (Dotfiles):
+#### Репозиторијуми (Dotfiles):
 
 🐙 | [`Github | Репозиторијум`](https://github.com/crnobog69/dotfiles)
 

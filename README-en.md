@@ -48,7 +48,7 @@
 
 <br>
 
-Repositories (Extra):
+#### Repositories (Extra):
 
 🐙 | [`Github | Repository`](https://github.com/crnobog69/extra)
 
@@ -58,7 +58,7 @@ Repositories (Extra):
 
 <br>
 
-Repositories (Dotfiles):
+#### Repositories (Dotfiles):
 
 🐙 | [`Github | Repository`](https://github.com/crnobog69/dotfiles)
 
