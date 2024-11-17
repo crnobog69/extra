@@ -90,3 +90,13 @@ With the click on the name of the program, you will be taken to the instructions
 🦊 | [`GitLab | Repository`](https://gitlab.com/crnobog/dotfiles)
 
 <br>
+
+Repository (dotwin | Windows):
+
+🐙 | [`Github | Repository`](https://github.com/crnobog69/dotwin)
+
+🏔️ | [`Codeberg | Repository`](https://codeberg.org/crnobog/dotwin)
+
+🦊 | [`GitLab | Repository`](https://gitlab.com/crnobog/dotwin)
+
+<br>
