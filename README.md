@@ -6,8 +6,6 @@
 
 ---
 
-<br>
-
 <div align="center">
 <p>
 <a href="https://github.com/crnobog69/extra/stargazers"><img src="https://img.shields.io/github/stars/crnobog69/extra?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=C9CBFF&labelColor=302D41" alt="stars"><a>&nbsp;&nbsp;
