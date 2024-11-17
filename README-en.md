@@ -37,18 +37,20 @@
 
 ### Instructions
 
-- 🖥️ | [`kde`](kde/README.md) - instructions
-- 🌐 | [`tabliss`](tabliss/README.md) - instructions
-- 💬 | [`vencord`](vencord/README.md) - instructions
-- 🎵 | [`spicetify`](spicetify/README.md) - instructions
-- 🐇 | [`mangadex`](mangadex/README.md) - instructions
-- 🐈 | [`miruro`](miruro/README.md) - instructions
-- 🐒 | [`violentmonkey`](violentmonkey/README.md) - instructions
-- 🦊 | [`firefox`](firefox/README.md) - instructions
-- ⚛️ | [`cobaltium`](https://github.com/crnobog69/cobaltium) - instructions
-- 🦁 | [`brave`](brave/README.md) - instructions
-- 🗺️ | [`brave-maps`](brave-maps) - instructions (same as [`cobaltium`](https://github.com/crnobog69/cobaltium))
-- 📝 | [`notesnook`](notesnook/README.md) - instructions
+With the click on the name of the program, you will be taken to the instructions for that program.
+
+- 🖥️ | [`kde`](kde/README.md)
+- 🌐 | [`tabliss`](tabliss/README.md)
+- 💬 | [`vencord`](vencord/README.md)
+- 🎵 | [`spicetify`](spicetify/README.md)
+- 🐇 | [`mangadex`](mangadex/README.md)
+- 🐈 | [`miruro`](miruro/README.md)
+- 🐒 | [`violentmonkey`](violentmonkey/README.md)
+- 🦊 | [`firefox`](firefox/README.md)
+- ⚛️ | [`cobaltium`](https://github.com/crnobog69/cobaltium)
+- 🦁 | [`brave`](brave/README.md)
+- 🗺️ | [`brave-maps`](brave-maps) (same as [`cobaltium`](https://github.com/crnobog69/cobaltium))
+- 📝 | [`notesnook`](notesnook/README.md)
 
 ---
 

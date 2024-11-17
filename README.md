@@ -35,18 +35,20 @@
 
 ### Упутства
 
-- 🖥️ | [`kde`](kde/README.md) - упутство
-- 🌐 | [`tabliss`](tabliss/README.md) - упутство
-- 💬 | [`vencord`](vencord/README.md) - упутство
-- 🎵 | [`spicetify`](spicetify/README.md) - упутство
-- 🐇 | [`mangadex`](mangadex/README.md) - упутство
-- 🐈 | [`miruro`](miruro/README.md) - упутство
-- 🐒 | [`violentmonkey`](violentmonkey/README.md) - упутство
-- 🦊 | [`firefox`](firefox/README.md) - упутство
-- ⚛️ | [`cobaltium`](https://github.com/crnobog69/cobaltium) - упутство
-- 🦁 | [`brave`](brave/README.md) - упутство
-- 🗺️ | [`brave-maps`](brave-maps) - упутство (исто као [`cobaltium`](https://github.com/crnobog69/cobaltium))
-- 📝 | [`notesnook`](notesnook/README.md) - упутство
+Кликом на име програма ћете доћи на упутство за тој програм.
+
+- 🖥️ | [`kde`](kde/README.md)
+- 🌐 | [`tabliss`](tabliss/README.md)
+- 💬 | [`vencord`](vencord/README.md)
+- 🎵 | [`spicetify`](spicetify/README.md)
+- 🐇 | [`mangadex`](mangadex/README.md)
+- 🐈 | [`miruro`](miruro/README.md)
+- 🐒 | [`violentmonkey`](violentmonkey/README.md)
+- 🦊 | [`firefox`](firefox/README.md)
+- ⚛️ | [`cobaltium`](https://github.com/crnobog69/cobaltium)
+- 🦁 | [`brave`](brave/README.md)
+- 🗺️ | [`brave-maps`](brave-maps) (исто као [`cobaltium`](https://github.com/crnobog69/cobaltium))
+- 📝 | [`notesnook`](notesnook/README.md)
 
 ---
 
