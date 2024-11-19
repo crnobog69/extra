@@ -68,6 +68,7 @@ git clone https://github.com/crnobog69/extra.git
 - ⚛️ | [`cobaltium`](https://github.com/crnobog69/cobaltium)
 - 🦁 | [`brave`](brave/README.md)
 - 📞 | [`whatsapp`](whatsapp/README.md)
+- 🤖 | [`gptium`](gptium/README.md)
 - 🗺️ | [`brave-maps`](brave-maps) (исто као [`cobaltium`](https://github.com/crnobog69/cobaltium))
 - 📝 | [`notesnook`](notesnook/README.md)
 
@@ -85,6 +86,7 @@ git clone https://github.com/crnobog69/extra.git
 - 📝 | [Notesnook](https://github.com/crnobog69/notesnook)
 - 🦀 | [pasters](https://github.com/crnobog69/pasters-terminal)
 - 📻 | [kolo](https://github.com/crnobog69/kolo)
+- 🤖 | [gptium](https://github.com/crnobog69/gptium)
 - 🐒 | [Violentmonkey](https://github.com/crnobog69/violentmonkey-mocha)
 - 🦊 | [Crnobog - Творац/Ја](https://github.com/crnobog69)
 

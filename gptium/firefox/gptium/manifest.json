@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "Gptium",
+  "version": "1.2",
+  "description": "Send selected text to ChatGPT",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": ["activeTab", "<all_urls>"],
+  "browser_action": {
+    "default_icon": {
+      "16": "assets/icon16.png",
+      "48": "assets/icon48.png",
+      "128": "assets/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "assets/icon16.png",
+    "48": "assets/icon48.png",
+    "128": "assets/icon128.png"
+  },
+  "homepage_url": "https://github.com/crnobog69/gptium",
+  "author": "Црнобог | Crnobog"
+}
