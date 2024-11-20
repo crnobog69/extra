@@ -1,0 +1,35 @@
+[Firefox Minimized Start]
+Description=Firefox Minimized Start
+minimize=true
+minimizerule=3
+wmclass=firefox
+wmclassmatch=1
+
+[Open RGB Minimized Start]
+Description=Open RGB Minimized Start
+minimize=true
+minimizerule=3
+wmclass=openrgb
+wmclassmatch=1
+
+[Pormaster Minimiez Start]
+Description=Pormaster Minimiez Start
+minimize=true
+minimizerule=3
+wmclass=Portmaster
+wmclasscomplete=true
+wmclassmatch=1
+
+[Spotify Minimized Start]
+Description=Spotify Minimized Start
+minimize=true
+minimizerule=3
+wmclass=Spotify
+wmclassmatch=1
+
+[Vesktop Minimized Start]
+Description=Vesktop Minimized Start
+minimize=true
+minimizerule=3
+wmclass=vesktop
+wmclassmatch=1
