@@ -72,6 +72,7 @@ With the click on the name of the program, you will be taken to the instructions
 - 📞 | [`whatsapp`](whatsapp/README.md)
 - 🤖 | [`gptium`](gptium/README.md)
 - 🩸 | [`ultrakill`](ultrakill/)
+- 👻 | [`phasmophobia`](phasmophobia/)
 - 🗺️ | [`brave-maps`](brave-maps) (same as [`cobaltium`](https://github.com/crnobog69/cobaltium))
 - 📝 | [`notesnook`](notesnook/README.md)
 
