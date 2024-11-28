@@ -51,7 +51,7 @@ git clone https://github.com/crnobog69/extra.git
    git clone https://codeberg.org/crnobog/dotfiles.git && git clone https://github.com/crnobog69/extra.git
 ```
 
-За (постављање) `GNU Stow` Dotfiles посетите [crnobog69/dotfiles](https://github.com/crnobog69/dotfiles).
+За (постављање) `GNU Stow` Dotfiles посетите [`crnobog69/dotfiles`](https://github.com/crnobog69/dotfiles).
 
 #### 2. Упутства
 
