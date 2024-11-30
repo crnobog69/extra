@@ -6,7 +6,7 @@
 
 ## 🌹 | Rosé Pine
 
-Rosé Pine је елегантна тема са нежним, пастелним тоновима.
+Rosé Pine је елегантна тема са Soho пастелним тоновима. Компатибилна са [Textfox](https://github.com/adriankarlen/textfox) темом.
 
 1. **GitHub репозиторијум:**
    [https://github.com/rose-pine/firefox](https://github.com/rose-pine/firefox)
@@ -17,7 +17,7 @@ _Овде можете наћи упутства за инсталацију и 
 
 ## 😺 | Catppuccin
 
-Catppuccin је шармантна тема инспирисана топлим бојама и мачкама.
+Catppuccin је тема инспирисана топлим бојама и мачкама.
 
 1. **GitHub репозиторијум:**
    [https://github.com/catppuccin/firefox](https://github.com/catppuccin/firefox)
@@ -30,6 +30,8 @@ _Садржи различите варијанте теме и детаљна �
 
 2. **Firefox Color веза** (исто као из 1. корака) до **Mocha Green** варијантe: [Firefox Color](https://color.firefox.com/?theme=XQAAAAJEBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pFtMcajvXaAE3RJ0F_F447xQs-L1kFlGgDKq4IIvWciiy4upusW7OvXIRinrLrwLvjXB37kvhN5ElayHo02fx3o8RrDShIhRpNiQMOdww5V2sCMLAfehhpNuTUzCCysnMav9-dMeCS-YdrUYNRq_65Vh7TlxjqqIEBwOL_OoPPzToHWKzukcQaRsZUnty3oxorbtIosU9WVXZVe5ImQLK4GyxY9IaGdk_4jpW4cVdaKPaDGD6P_nSqysKos2ATQ16qOOYp7ekq4tWW2fF74tUqB_0WbB4Q5I0qKeUW2NfJMOkcGyTetLVRsE1GPMMh0hw6mSEYxm9KxMQC1bS56dsWnK7ZGTJyiMYGRtcOxp2_1WnhezQVdo7WCmNNcB6UOu1usj9vfd5y5MtnkVbQO6y2NHx4V62RLNJkb1NhaehWE7sXRBy07YJp5WGrU2xg-Pzx5kwVEpf0P0uNggg9gGnBsZ1Z6M6A_C6y5OP8RpqKWGD3O58CLSYN9fZR1_p9Iffs1HyDT9XD_4Y0ysg)
 
+3. **Firefox Color веза** (исто као из 1. корака) до **Mocha Green** варијантe за [**Textfox**](https://github.com/adriankarlen/textfox): [Firefox Color](https://color.firefox.com/?theme=XQAAAAIqBAAAAAAAAABBqYhm849SCicxcUapi38oKRicm6da8pFtMcajvXaAE3RJ0F_F447xQs-L1kFlGgDKq4IIvWciiy4upusW7OvXIRinrLrwLvjXB37kvhN5ElayHo02fx3o8RrDShIhRpNiQMOdww5V2sCMLAfehhpNuTUzCCysnMav9-dMeCS-YdrUYNRq_65Vh7TlxjqqIEBwOL_OoPPzToHWKzukcQaRsZUnty3oxorbtIosU9WVXZVe5ImQLK4GyxY9IaGdk_4ki1s18wGyKuGQjExxVHUr_LxkS70vmcR6_o8QA-xsIuSYbGiQ4JLhI62-3wYVNvf2uLEcnv4muaPnmHV3_JgtuV_wClm1QQSLxFQ3PSuwWRaxk0CsiTUhkRHNwufS_8qzzPueBCYmRlkLuBdT7ABpEvlqWDSTqe8g6k-05tnP0ZjneOjibcMWNR6YIZ8oNNiYeqibNpICqUVvxu4camdUhqDI3durqOyNs9_lNX7XjmUiWzAwXUeqvX7PjKZQykdE4tJvbspiUvkVcgvvfwAUQFXIiJExyvX9-Kcs)
+
 Изаберите тему која вам се највише допада и уживајте у новом изгледу вашег Firefox претраживача!
 
 ---
@@ -40,7 +42,7 @@ If you want to customize the look of your Firefox browser, you can choose from p
 
 ## 🌹 | Rosé Pine
 
-Rosé Pine is an elegant theme with soft, pastel tones.
+Rosé Pine is an elegant theme with pastel tones. Compatible with [Textfox](https://github.com/adriankarlen/textfox) theme.
 
 1. **GitHub Repository:**
    [https://github.com/rose-pine/firefox](https://github.com/rose-pine/firefox)
@@ -51,7 +53,7 @@ _Here you can find instructions for installation and customization of the theme 
 
 ## 😺 | Catppuccin
 
-Catppuccin is a charming theme inspired by warm colors and cats.
+Catppuccin is a theme inspired by warm colors and cats.
 
 **GitHub Repository:**
 [https://github.com/catppuccin/firefox](https://github.com/catppuccin/firefox)
@@ -63,5 +65,7 @@ _Contains various theme variants and detailed installation instructions for Fire
 or
 
 2. **Firefox Color link** (same as from the 1. step) to **Mocha Green** variant: [Firefox Color](https://color.firefox.com/?theme=XQAAAAJEBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pFtMcajvXaAE3RJ0F_F447xQs-L1kFlGgDKq4IIvWciiy4upusW7OvXIRinrLrwLvjXB37kvhN5ElayHo02fx3o8RrDShIhRpNiQMOdww5V2sCMLAfehhpNuTUzCCysnMav9-dMeCS-YdrUYNRq_65Vh7TlxjqqIEBwOL_OoPPzToHWKzukcQaRsZUnty3oxorbtIosU9WVXZVe5ImQLK4GyxY9IaGdk_4jpW4cVdaKPaDGD6P_nSqysKos2ATQ16qOOYp7ekq4tWW2fF74tUqB_0WbB4Q5I0qKeUW2NfJMOkcGyTetLVRsE1GPMMh0hw6mSEYxm9KxMQC1bS56dsWnK7ZGTJyiMYGRtcOxp2_1WnhezQVdo7WCmNNcB6UOu1usj9vfd5y5MtnkVbQO6y2NHx4V62RLNJkb1NhaehWE7sXRBy07YJp5WGrU2xg-Pzx5kwVEpf0P0uNggg9gGnBsZ1Z6M6A_C6y5OP8RpqKWGD3O58CLSYN9fZR1_p9Iffs1HyDT9XD_4Y0ysg)
+
+3. **Firefox Color link** (as in 1. from the 1.step) to **Mocha Green** variant for [**Textfox**](https://github.com/adriankarlen/textfox): [Firefox Color](https://color.firefox.com/?theme=XQAAAAIqBAAAAAAAAABBqYhm849SCicxcUapi38oKRicm6da8pFtMcajvXaAE3RJ0F_F447xQs-L1kFlGgDKq4IIvWciiy4upusW7OvXIRinrLrwLvjXB37kvhN5ElayHo02fx3o8RrDShIhRpNiQMOdww5V2sCMLAfehhpNuTUzCCysnMav9-dMeCS-YdrUYNRq_65Vh7TlxjqqIEBwOL_OoPPzToHWKzukcQaRsZUnty3oxorbtIosU9WVXZVe5ImQLK4GyxY9IaGdk_4ki1s18wGyKuGQjExxVHUr_LxkS70vmcR6_o8QA-xsIuSYbGiQ4JLhI62-3wYVNvf2uLEcnv4muaPnmHV3_JgtuV_wClm1QQSLxFQ3PSuwWRaxk0CsiTUhkRHNwufS_8qzzPueBCYmRlkLuBdT7ABpEvlqWDSTqe8g6k-05tnP0ZjneOjibcMWNR6YIZ8oNNiYeqibNpICqUVvxu4camdUhqDI3durqOyNs9_lNX7XjmUiWzAwXUeqvX7PjKZQykdE4tJvbspiUvkVcgvvfwAUQFXIiJExyvX9-Kcs)
 
 Choose the theme you like the most and enjoy the new look of your Firefox browser!
