@@ -1,0 +1,11 @@
+type: settings
+config:
+    core:
+        locale: en-GB
+    dns:
+        nameservers:
+            - dot://194.242.2.2:853?verify=dns.mullvad.net&name=Mullvad&blockedif=empty
+            - dot://dns.quad9.net?ip=9.9.9.9&name=Quad9&blockedif=empty
+            - dot://dns.quad9.net?ip=149.112.112.112&name=Quad9&blockedif=empty
+
+# jess-checksum: Zwo2Pxq8SGg4bsSkQsPDZnXh664etHL22dKHeoFCFUGZDm
