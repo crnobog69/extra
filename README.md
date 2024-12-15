@@ -72,6 +72,7 @@ git clone https://github.com/crnobog69/extra.git
 - 🩸 | [`ultrakill`](ultrakill/)
 - 👻 | [`phasmophobia`](phasmophobia/)
 - 🛡️ | [`portmaster`](portmaster/)
+- 🧲 | [`qbittorrent`](qbittorrent/)
 - 🗺️ | [`brave-maps`](brave-maps) (исто као [`cobaltium`](https://github.com/crnobog69/cobaltium))
 - 📝 | [`notesnook`](notesnook/README.md)
 
