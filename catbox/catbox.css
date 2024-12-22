@@ -1,0 +1,208 @@
+@-moz-document url-prefix("https://catbox.moe/") {
+    /* Base styles */
+    body {
+        background-color: #1e1e2e;
+        font-family: "Helvetica";
+        color: #6c7086; /* Overlay 0 - darker default text */
+    }
+    
+    /* Accent colors */
+    .welcome {
+        color: #a6e3a1;
+        text-align: center;
+        font-size: 64px;
+        padding: 5px;
+    }
+    
+    .welcomesub {
+        padding: 15px;
+        color: #94e2d5;
+        text-align: center;
+        font-size: 22px;
+    }
+    
+    /* Forms and inputs */
+    input[type="text"], input[type="password"], input[type="number"], textarea, select {
+        background-color: #313244;
+        border: 2px solid #a6e3a1;
+        color: #6c7086; /* Overlay 0 */
+    }
+    
+    input[type="button"], input[type="submit"], button.urlUpSubmit {
+        border: 2px solid #a6e3a1;
+        background-color: #313244;
+        color: #6c7086; /* Overlay 0 */
+    }
+    
+    input[type="button"]:hover, input[type="submit"]:hover, button.urlUpSubmit:hover {
+        background-color: #45475a;
+        transition: background-color 150ms linear;
+    }
+    
+    /* Cards and containers */
+    form.genericform, .notenormal, .notesmall, .notetiny {
+        background-color: #313244;
+        border: 2px solid #a6e3a1;
+        color: #6c7086; /* Overlay 0 */
+    }
+    
+    .notetinywarning {
+        border: 2px solid #f38ba8;
+        background-color: #313244;
+    }
+    
+    /* Tables */
+    table {
+        background-color: #313244;
+        border: 1px solid #a6e3a1;
+    }
+    
+    td {
+        border: 1px solid #a6e3a1;
+        color: #6c7086; /* Overlay 0 */
+    }
+    
+    /* Links */
+    a.linkbutton {
+        color: #a6e3a1;
+        text-decoration: none;
+    }
+    
+    a.linkbutton:hover {
+        color: #94e2d5;
+        text-decoration: underline;
+    }
+    
+    a.stats {
+        color: #89b4fa;
+        text-decoration: none;
+    }
+    
+    /* Progress bars */
+    .patreonProgressBarBacking, .fundingProgressBarBacking {
+        background-color: #45475a;
+        border: solid 2px #a6e3a1;
+    }
+    
+    .patreonProgressBar, .fundingProgressBar {
+        background-color: #a6e3a1;
+    }
+    
+    /* Support buttons */
+    span.patreonSupportButton {
+        border: 2px solid #6c7086; /* Overlay 0 */
+        background-color: #45475a;
+    }
+    
+    span.kofiSupportButton {
+        border: 2px solid #89dceb;
+        background-color: #45475a;
+    }
+    
+    span.storeSupportButton {
+        border: 2px solid #f9e2af;
+        background-color: #45475a;
+    }
+    
+    /* Dropzone */
+    form.dz-clickable {
+        border: 2px solid #a6e3a1;
+        background-color: #313244;
+    }
+    
+    form.dz-clickable:hover {
+        background-color: #45475a;
+    }
+    
+    div.dz-preview {
+        background-color: #313244;
+        border: 2px solid #a6e3a1;
+        box-shadow: 1px 1px 5px #11111b;
+    }
+    
+    div.dz-error {
+        border: 2px solid #f38ba8;
+    }
+    
+    .dz-upload {
+        background-color: #a6e3a1;
+    }
+    
+    /* Stats indicators */
+    div.seeders {
+        color: #a6e3a1;
+        border: 2px solid #a6e3a1;
+        background-color: #313244;
+    }
+    
+    div.leechers {
+        color: #f38ba8;
+        border: 2px solid #a6e3a1;
+        background-color: #313244;
+    }
+    
+    div.completed {
+        color: #94e2d5;
+        border: 2px solid #a6e3a1;
+        background-color: #313244;
+    }
+    
+    /* Mobile adjustments */
+    @media screen and (max-device-width: 640px) {
+        /* Keep existing mobile layouts but update colors */
+        form.genericform, .notetiny, .notesmall {
+            background-color: #313244;
+            border-color: #a6e3a1;
+        }
+        
+        div.dz-message {
+            color: #6c7086; /* Overlay 0 */
+        }
+    }
+    
+    /* Hover states */
+    a:hover {
+        color: #94e2d5;
+    }
+    
+    /* Placeholder text */
+    ::placeholder {
+        color: #585b70; /* Surface 2 - even darker for placeholder text */
+    }
+    
+    /* Additional elements */
+    .legalSection {
+        background-color: #313244;
+    }
+    
+    span.legalRowText {
+        background-color: #313244;
+        border: solid 1px #a6e3a1;
+        color: #6c7086; /* Overlay 0 */
+    }
+    
+    span.legalRowText:hover {
+        background-color: #45475a;
+    }
+    
+    /* Keep original layout properties but update colors */
+    .hometab {
+        background-color: #313244;
+        border: 2px solid #a6e3a1;
+    }
+    
+    .placeHolder div {
+        background-color: #45475a;
+        border: dashed 1px #6c7086; /* Overlay 0 */
+    }
+    
+    /* Default text elements */
+    p, div, span {
+        color: #6c7086; /* Overlay 0 */
+    }
+    
+    /* Headers */
+    h1, h2, h3, h4, h5, h6 {
+        color: #7f849c; /* Overlay 1 - slightly lighter for headers */
+    }
+    }

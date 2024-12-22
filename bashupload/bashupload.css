@@ -1,0 +1,260 @@
+@-moz-document url-prefix("https://bashupload.com/") {
+    /* Layout */
+    body {
+        font-family: "SF Mono", "Segoe UI Mono", "Roboto Mono", Menlo, Courier, monospace;
+        background-color: #1e1e2e;
+        color: #cdd6f4;
+    }
+    
+    html,
+    body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        border: 0;
+    }
+    
+    h1,
+    h2,
+    h3 {
+        font-weight: normal;
+        margin: 0 0 .5em 0;
+        color: #cdd6f4;
+    }
+    
+    h2,
+    h3 {
+        margin: 1.5em 0 .5em 0;
+    }
+    
+    h1 sup {
+        vertical-align: text-top;
+        color: #bac2de;
+        font-size: x-small;
+    }
+    
+    p,
+    ul {
+        line-height: 150%;
+        color: #cdd6f4;
+    }
+    
+    ul.docs {
+        columns: 2;
+    }
+    
+    ul.docs .active {
+        font-weight: bold;
+        color: #a6e3a1;
+    }
+    
+    a {
+        color: #a6e3a1;
+    }
+    
+    a:hover {
+        color: #94e2d5;
+    }
+    
+    .sorry {
+        margin: 2em;
+        text-align: center;
+        color: #f38ba8;
+    }
+    
+    #content {
+        max-width: 700px;
+        width: 100%;
+        margin: 0 auto;
+        min-height: 100%;
+        box-sizing: border-box;
+        padding: 0 1em 50px 1em;
+        background-color: #1e1e2e;
+    }
+    
+    footer {
+        padding: 15px 0;
+        font-size: x-small;
+        text-align: center;
+        line-height: 150%;
+        background: #1e1e2e;
+        color: #bac2de;
+        margin-top: -50px;
+        height: 20px;
+    }
+    
+    header {
+        font-size: 1em;
+        padding: 1em 0;
+        background-color: #1e1e2e;
+        color: #cdd6f4;
+    }
+    
+    #focus {
+        margin-top: 20vh;
+    }
+    
+    #upload-instructions {
+        text-align: center;
+        color: #cdd6f4;
+    }
+    
+    #browser-header {
+        height: 20px;
+        background: #a6e3a1;c
+        border-radius: 5px;
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+        color: #1e1e2e;
+        font-size: 10px;
+        line-height: 20px;
+    }
+    
+    #copy {
+        position: fixed;
+        top: -100px;
+        color: #cdd6f4;
+    }
+    
+    code {
+        text-align: left;
+        display: block;
+        background: #11111b;
+        padding: 2em;
+        border-radius: 5px;
+        color: #cdd6f4;
+        border-top-right-radius: 0;
+        border-top-left-radius: 0;
+    }
+    
+    code:hover {
+        background: #45475a;
+        cursor: pointer;
+    }
+    
+    .note {
+        color: #bac2de;
+    }
+    
+    .alert {
+        color: #f38ba8;
+    }
+    
+    .alert a {
+        color: #a6e3a1;
+    }
+    
+    .docs img {
+        max-width: 100%;
+        background-color: #1e1e2e;
+    }
+    
+    /* Uploaded files list */
+    #uploaded {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        list-style: none;
+        font-size: x-small;
+        line-height: 150%;
+        color: #cdd6f4;
+    }
+    
+    #uploaded li {
+        padding: 1em 0 1em 0;
+        border-top: 1px solid #585b70;
+        background-color: #1e1e2e;
+    }
+    
+    /* Drag&Drop component */
+    #dropper {
+        box-sizing: border-box;
+        padding: 1em;
+        font-size: x-small;
+        color: #cdd6f4;
+        border: 2px solid #7f849c;
+        background: #1e1e2e;
+        text-align: center;
+    }
+    
+    #dropper.active {
+        position: fixed;
+        top: 20px;
+        bottom: 20px;
+        right: 20px;
+        left: 20px;
+        border: 10px dashed #a6e3a1;
+        color: #cdd6f4;
+        font-size: 3em;
+        background: rgba(255, 255, 255, 0.75);
+    }
+    
+    #dropzone {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: -1;
+        background-color: #1e1e2e;
+    }
+    
+    #dropzone.active {
+        background: #1e1e2e;
+        opacity: 0.75;
+        z-index: 1;
+    }
+    
+    #choosefile {
+        text-decoration: none;
+        border-bottom: 1px dashed #a6e3a1;
+    }
+    
+    #choosefile:hover {
+        border-color: #94e2d5;
+    }
+    
+    /* Docs markers */
+    b.c1 {
+        color: #f5c2e7;
+    }
+    b.c2 {
+        color: #74c7ec;
+    }
+    b.c3 {
+        color: #a6e3a1;
+    }
+    b.c4 {
+        color: #f9e2af;
+    }
+    
+    /* Mobile version */
+    @media (max-width: 600px) {
+        #choosefile {
+            /* Styles for mobile */
+        }
+        #choosefile:hover {
+            /* Hover styles for mobile */
+        }
+        #choosefile:active {
+            /* Active styles for mobile */
+        }
+    
+        footer {
+            font-size: small;
+            color: #bac2de;
+        }
+    
+        ul.docs {
+            columns: 1;
+        }
+    
+        .aslo {
+            display: none;
+        }
+    
+        #focus {
+            margin-top: 1em;
+        }
+    }
+    }

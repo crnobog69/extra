@@ -75,6 +75,8 @@ With the click on the name of the program, you will be taken to the instructions
 - 👻 | [`phasmophobia`](phasmophobia/)
 - 🛡️ | [`portmaster`](portmaster/)
 - 🧲 | [`qbittorrent`](qbittorrent/)
+- 🐧 | [`bashupload`](bashupload/)
+- 🐈‍⬛ | [`catbox`](catbox/)
 - 🗺️ | [`brave-maps`](brave-maps) (same as [`cobaltium`](https://github.com/crnobog69/cobaltium))
 - 📝 | [`notesnook`](notesnook/README.md)
 
