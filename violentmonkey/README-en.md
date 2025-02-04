@@ -110,7 +110,8 @@ Userscripts for ani/manga and other 🖥️🔧
 
 - 📹 | [`VidLii video downloader`](https://greasyfork.org/en/scripts/487046-vidlii-video-downloader)
 - 🍴 | [`Greasyfork Search with Sleazyfork Results include`](https://greasyfork.org/en/scripts/23840-greasyfork-search-with-sleazyfork-results-include)
-
+- 📽️ | [`Better HiAnime`](https://greasyfork.org/en/scripts/506340-better-hianime)
+- 📼 | [`Intro skipper`](https://greasyfork.org/en/scripts/33779-intro-skipper)
 <br>
 
 ### ⚙️ | Configurations
