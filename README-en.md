@@ -4,6 +4,11 @@
 
 </div>
 
+> [!TIP]
+> Documentation is located on [***DotDocs***](https://dotdocs.vercel.app/) website.
+> <br>
+> Documentation that is located here **WILL BE** updated.
+
 <div align="center">
 
 ---
