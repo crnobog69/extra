@@ -1,4 +1,8 @@
+<div align="center">
+
 # ⚙️ Конфигурације | KDE Plasma 6.2.5
+
+</div>
 
 <div align="center">
 
