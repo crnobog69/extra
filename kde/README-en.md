@@ -16,4 +16,23 @@
 
 The `colors` file is for the `AppleDark-All` theme located at `/home/krematorijum/.local/share/plasma/desktoptheme/AppleDark-ALL/`.
 
+## Other
+
+### No title bar?
+
+In the `kwinrc` file:
+
+```bash
+micro ./config/kwinrc
+```
+
+Under the **[Windows]** section, set `BorderlessMaximizedWindows` to `false`.
+
+Like this:
+
+```txt
+[Windows]
+BorderlessMaximizedWindows=false
+```
+
 <br>

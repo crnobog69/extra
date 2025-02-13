@@ -1,4 +1,4 @@
-# ⚙️ Конфигурације | KDE Plasma 6.1
+# ⚙️ Конфигурације | KDE Plasma 6.2.5
 
 <div align="center">
 
@@ -15,5 +15,24 @@
 - 🐈 | [`catppuccin/kde`](https://github.com/catppuccin/kde) <= тема за KDE Plasma
 
 `colors` датотека је за `AppleDark-All` тему - `/home/krematorijum/.local/share/plasma/desktoptheme/AppleDark-ALL/`
+
+## Остало
+
+### Нема насловне траке?
+
+У `kwinrc` датотеци
+
+```bash
+micro ./config/kwinrc
+```
+
+Испод **[Windows]** секције за `BorderlessMaximizedWindows` подесите на вредност `false`.
+
+Овако:
+
+```txt
+[Windows]
+BorderlessMaximizedWindows=false
+```
 
 <br>
