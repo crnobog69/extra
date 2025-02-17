@@ -134,8 +134,13 @@ chartFace=org.kde.ksysguard.piechart
 chartFace=org.kde.ksysguard.piechart
 title=GPU
 
+[Face-96842430729184][SensorColors]
+gpu/all/usage=165,14,210
+gpu/gpu1/temperature=197,14,210
+
 [Face-96842430729184][Sensors]
-totalSensors=["gpu/all/usage","gpu/all/usedVram"]
+highPrioritySensorIds=["gpu/gpu1/temperature"]
+totalSensors=["gpu/gpu1/temperature","gpu/gpu1/usage"]
 
 [page]
 Title=Overview
