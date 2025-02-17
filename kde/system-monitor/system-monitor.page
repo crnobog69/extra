@@ -3,6 +3,7 @@ Title=Memory
 Title=Memory
 chartFace=org.kde.ksysguard.piechart
 chartFace=org.kde.ksysguard.piechart
+updateRateLimit=0
 
 [Face-94410222150464][SensorColors]
 memory/physical/used=197,14,210
@@ -65,6 +66,7 @@ Title=CPU
 Title=CPU
 chartFace=org.kde.ksysguard.piechart
 chartFace=org.kde.ksysguard.piechart
+updateRateLimit=0
 
 [Face-94410266684256][SensorColors]
 cpu/all/averageTemperature=26,14,210
@@ -133,6 +135,7 @@ chartFace=org.kde.ksysguard.piechart
 [Face-96842430729184][Appearance]
 chartFace=org.kde.ksysguard.piechart
 title=GPU
+updateRateLimit=0
 
 [Face-96842430729184][SensorColors]
 gpu/all/usage=165,14,210
