@@ -67,12 +67,14 @@ chartFace=org.kde.ksysguard.piechart
 chartFace=org.kde.ksysguard.piechart
 
 [Face-94410266684256][SensorColors]
+cpu/all/averageTemperature=26,14,210
 cpu/all/usage=197,14,210
 
 [Face-94410266684256][Sensors]
 highPrioritySensorIds=["cpu/all/usage"]
 highPrioritySensorIds=["cpu/all/usage"]
-totalSensors=["cpu/all/usage"]
+lowPrioritySensorIds=["cpu/all/averageTemperature"]
+totalSensors=["cpu/all/usage","cpu/all/averageTemperature"]
 totalSensors=["cpu/all/usage"]
 
 [Face-94410266684256][org.kde.ksysguard.piechart][General]
