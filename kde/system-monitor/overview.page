@@ -143,6 +143,7 @@ gpu/gpu1/temperature=197,14,210
 
 [Face-96842430729184][Sensors]
 highPrioritySensorIds=["gpu/gpu1/temperature"]
+lowPrioritySensorIds=["gpu/gpu1/usedVram"]
 totalSensors=["gpu/gpu1/temperature","gpu/gpu1/usage"]
 
 [page]
