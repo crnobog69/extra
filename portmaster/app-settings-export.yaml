@@ -1,0 +1,10 @@
+type: settings
+config:
+    filter:
+        blockInbound: false
+        includeSubdomains: false
+        preventBypassing: false
+    spn:
+        use: false
+
+# jess-checksum: ZwuegMEKrNE14vRJxi91SahJEjY3yCiujzoKoXQyEYLz4e
