@@ -27,7 +27,7 @@
 У `kwinrc` датотеци
 
 ```bash
-micro ./config/kwinrc
+micro .config/kwinrc
 ```
 
 Испод **[Windows]** секције за `BorderlessMaximizedWindows` подесите на вредност `false`.
